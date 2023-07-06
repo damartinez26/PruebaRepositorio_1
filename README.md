@@ -1,2 +1,2 @@
 # PruebaRepositorio_1
-Repositorio Prueba Henry
+Creacion y clonacion de repositorio desde git a local
